@@ -1,0 +1,115 @@
+CathStack License (Freeware End-User License Agreement)
+Version 1.0
+
+Copyright (c) 2026 Sina Keshavarz. All rights reserved.
+"CathStack" is published as "CathStack by Sina".
+
+PLEASE READ THIS AGREEMENT CAREFULLY. BY INSTALLING, COPYING OR USING
+CATHSTACK YOU AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE, DO NOT
+INSTALL OR USE THE SOFTWARE.
+
+1. DEFINITIONS
+"Software" means the CathStack application, including its executable code,
+installers, documentation, FeatureScript code it generates or uploads, and
+any updates the Author makes available. "Author" means Sina Keshavarz.
+"You" means the individual or the legal entity using the Software.
+
+2. LICENSE GRANT
+Subject to this Agreement, the Author grants You a free-of-charge,
+non-exclusive, non-transferable, revocable, worldwide license to:
+  a) install and use the Software on any number of computers You own or
+     control, for personal, educational, research AND commercial purposes,
+     including use within a company in the course of product development;
+  b) use, publish and commercially exploit the output You create with the
+     Software (reports, CSV files, design files, plots and CAD models). The
+     Author claims no rights in Your output.
+
+3. RESTRICTIONS
+Except as expressly permitted in this Agreement or by the licenses of
+third-party components (Section 6), You may NOT:
+  a) copy the Software, except as needed to install and use it and for
+     backup purposes;
+  b) modify, translate, adapt or create derivative works of the Software;
+  c) decompile, disassemble or reverse-engineer the Software, or attempt to
+     extract its source code, except to the extent applicable law expressly
+     permits this despite this restriction;
+  d) distribute, sell, rent, lease, lend, sublicense, host or otherwise make
+     the Software or its installers available to third parties (please
+     share the official download link instead);
+  e) remove or alter any copyright, trademark or license notices;
+  f) use the name "CathStack" or the Author's name to endorse or promote
+     other products without prior written permission.
+
+4. OWNERSHIP
+The Software is licensed, not sold. The Author retains all right, title and
+interest in and to the Software, including all intellectual property
+rights. All rights not expressly granted are reserved.
+
+5. NO PROFESSIONAL ADVICE; NOT A MEDICAL DEVICE; YOUR RESPONSIBILITY
+The Software is an engineering calculation aid. It is NOT a medical device,
+it is NOT validated for any specific use, and it does not replace
+engineering judgment, design verification or design validation. You are
+solely responsible for:
+  a) checking the inputs You enter and independently verifying every
+     result before relying on it;
+  b) validating the Software for Your intended use where required by Your
+     quality system or by regulation (for example 21 CFR 820 or
+     ISO 13485 Section 4.1.6 software validation);
+  c) any design, manufacturing, regulatory or clinical decision You make.
+
+6. THIRD-PARTY COMPONENTS
+The Software includes third-party open-source components (including
+Python, Qt for Python / PySide6 and Qt, NumPy, Matplotlib and Pillow).
+These components are licensed to You under their own licenses, which are
+listed in THIRD_PARTY_NOTICES.txt in the installation folder. Nothing in
+this Agreement limits Your rights under those licenses. In particular, the
+Qt and PySide6 libraries are provided under the GNU Lesser General Public
+License v3 as separate files, and You may replace them with modified
+versions and reverse-engineer the Software solely to debug such
+modifications, as that license permits.
+
+7. UPDATES AND SUPPORT
+The Author may, but is not obliged to, provide updates, fixes or support.
+The Author may change or discontinue the Software at any time. Updates are
+covered by this Agreement unless they come with a different license.
+
+8. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND
+NON-INFRINGEMENT. THE AUTHOR DOES NOT WARRANT THAT THE SOFTWARE OR ITS
+RESULTS ARE ERROR-FREE OR THAT THE SOFTWARE WILL OPERATE WITHOUT
+INTERRUPTION. THE ENTIRE RISK AS TO THE QUALITY, RESULTS AND PERFORMANCE OF
+THE SOFTWARE IS WITH YOU.
+
+9. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, REVENUE, DATA,
+PRODUCT, GOODWILL OR BUSINESS, OR ANY PERSONAL INJURY OR PROPERTY DAMAGE,
+ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE, ITS RESULTS OR THIS
+AGREEMENT, HOWEVER CAUSED, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES. BECAUSE THE SOFTWARE IS PROVIDED FREE OF CHARGE, THE AUTHOR'S
+TOTAL LIABILITY SHALL NOT EXCEED ZERO (0) US DOLLARS, OR, WHERE A LIMIT
+OF ZERO IS NOT PERMITTED, FIFTY (50) US DOLLARS. Some jurisdictions do not
+allow certain exclusions or limitations, so some of the above may not apply
+to You.
+
+10. THIRD-PARTY SERVICES
+The Software can connect to Onshape using API keys You provide. Your use of
+Onshape is governed by Your agreement with Onshape / PTC. The Author is not
+responsible for third-party services. Keys You choose to store are saved
+only on Your computer.
+
+11. TERMINATION
+This Agreement is effective until terminated. It terminates automatically
+if You fail to comply with any of its terms. On termination You must stop
+using the Software and delete all copies. Sections 4, 5, 8, 9 and 12
+survive termination.
+
+12. GENERAL
+This Agreement is the entire agreement between You and the Author regarding
+the Software. If any provision is held unenforceable, it shall be enforced
+to the maximum extent permissible and the remaining provisions remain in
+effect. Failure to enforce any provision is not a waiver. You may not
+assign this Agreement; the Author may.
