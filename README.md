@@ -70,7 +70,11 @@ dimensions to tighten if you want worst-case margin too.
 </p>
 
 The same design ships with the app, so you can open it, change any
-dimension and see the result update immediately.
+dimension and see the result update immediately. Also built in
+(*File → Open preset*), all illustrative: a 0.017" microcatheter, a 6 Fr
+guide catheter, a 7.5 Fr ablation catheter with off-centre lumens, a
+24 Fr large-bore delivery sheath, and multi-channel and coil-reinforced
+shafts.
 
 ## Download and install
 
