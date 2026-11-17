@@ -14,7 +14,7 @@
   <a href="https://github.com/SinaDreamer/cathstack/releases/latest"><b>⬇ Download the latest version</b></a>
 </p>
 
-![CathStack](docs/images/app.png)
+![CathStack with the 8.5 Fr steerable sheath example](docs/images/sheath/app.png)
 
 ## What it does
 
@@ -35,10 +35,42 @@
   your own Onshape account, with real interlaced braid wires, coils,
   channels, material colours and a cut-back view.
 
+## Featured example: 8.5 Fr bidirectional steerable sheath
+
+The built-in flagship design is sized like commercial 8.5 Fr bidirectional
+steerable sheaths (about 8.5 Fr ID / 12 Fr OD). Its construction and
+tolerances are illustrative, not any manufacturer's design. The layers,
+inside to out:
+
+| # | Layer | Nominal (in) |
+|---|---|---|
+| 1 | Mandrel (sets the main lumen) | OD 0.1130 ± 0.0005 |
+| 2 | Etched PTFE liner | wall 0.0015 ± 0.0003 |
+| 3 | Stainless flat-wire braid, 16 carriers, 45 PPI, 2-over-2 | 0.0012 × 0.0040 |
+| 4 | Inner Pebax 63D, reflowed | 0.1240 / 0.1320 ± 0.0010 |
+| 5 | 2 polyimide pull-wire lumens at 0° / 180° | ID 0.0080, wall 0.0010 |
+| 6 | Outer Pebax 40D jacket, reflowed | 0.1510 / 0.1740 ± 0.0010 |
+| 7 | FEP heat shrink (process aid) | 0.185 expanded / 0.135 recovered |
+
+**The lesson it teaches:** stacking seven layers worst-case puts the OD at
+up to 0.1598", over the 12 Fr ceiling of 0.1575", and says the design
+can't be built. Monte Carlo (20,000 builds) gives 0.1529–0.1567" with
+**Cpk 1.35**. The design is fine, and CathStack shows you which
+dimensions to tighten if you want worst-case margin too.
+
+![Final OD by stack-up method](docs/images/sheath/od_by_method.png)
+
 <p align="center">
-  <img src="docs/images/onshape_cutback.png" width="48%" alt="Cut-back model in Onshape">
-  <img src="docs/images/braid_2over2.png" width="48%" alt="2-over-2 braid">
+  <img src="docs/images/sheath/onshape_cutback.png" width="48%" alt="Cut-back 3D model of the sheath in Onshape">
+  <img src="docs/images/sheath/onshape_braid.png" width="48%" alt="2-over-2 flat-wire braid over the PTFE liner">
 </p>
+<p align="center">
+  <img src="docs/images/sheath/cross_section.png" width="48%" alt="True-scale cross-section with tolerance bands">
+  <img src="docs/images/sheath/onshape_end_view.png" width="48%" alt="End view of the Onshape model">
+</p>
+
+The same design ships with the app, so you can open it, change any
+dimension and see the result update immediately.
 
 ## Download and install
 

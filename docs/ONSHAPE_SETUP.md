@@ -5,7 +5,7 @@ account**: layers as named, coloured parts, the braid as real interlaced
 wires, coils at their pitch, channels with their liner tubes, and every
 component at the length you choose. This guide takes about five minutes.
 
-![Cut-back model generated in Onshape](images/onshape_cutback.png)
+![Cut-back model generated in Onshape](images/sheath/onshape_cutback.png)
 
 ---
 
@@ -33,7 +33,7 @@ component at the length you choose. This guide takes about five minutes.
 2. Open or build a design, then open the **Onshape 3D** tab (left panel), or
    use *File → Send to Onshape…*.
 
-   ![Onshape 3D tab](images/onshape_tab.png)
+   ![Onshape 3D tab](images/sheath/onshape_tab.png)
 
 3. **Connect your Onshape account** — paste the *Access key* and *Secret
    key*. Leave *Server* as `https://cad.onshape.com` unless you use an
